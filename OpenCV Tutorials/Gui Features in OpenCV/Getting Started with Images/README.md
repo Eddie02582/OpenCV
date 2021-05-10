@@ -46,7 +46,7 @@ cv.destroyAllWindows()
 
 
 結果如下</br>
-<img src = "https://github.com/Eddie02582/OpenCV/blob/master/OpenCV%20Tutorials/Gui%20Features%20in%20OpenCV/Getting%20Started%20with%20Images/show.png">
+<img src="https://github.com/Eddie02582/OpenCV/blob/master/OpenCV%20Tutorials/Gui%20Features%20in%20OpenCV/Getting%20Started%20with%20Images/show.png" alt="Smiley face" style="max-width:100%;">
 
 ## Write an image
 使用 cv.write(image_filename,mat)
